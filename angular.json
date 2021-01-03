@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "hr-people"
+    }
+  },
+  "defaultProject": "hr-people",
+  "cli": {
+    "analytics": false
+  }
 }
